@@ -1,3 +1,9 @@
+lliurex-megaphone (1.1) bionic; urgency=medium
+
+  * Bionic release
+
+ -- Juanma Navarro Mañez <juanma1980@gmail.com>  Wed, 03 Oct 2018 18:11:09 +0200
+
 lliurex-megaphone (1.0.4) xenial; urgency=medium
 
   * Removed deprecated locale
