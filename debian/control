@@ -1,0 +1,16 @@
+Source: lliurex-megaphone
+Section: x11
+Priority: optional
+Maintainer: LliureX Team <lliurex@gva.es>
+Build-Depends: cdbs, debhelper (>= 7), pkg-config, cmake (>= 2.6.0), libgtkmm-3.0-dev, libpulse-mainloop-glib0, libpulse-dev, llxcfg-dev, llxsrchelper
+Standards-Version: 3.9.3
+
+ 
+Package: lliurex-megaphone
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Easy pulseaudio loopback switch
+ Graphic interface than enables user to easily enable/disable pulseaudio loopback module
+
+
+

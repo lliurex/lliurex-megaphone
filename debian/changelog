@@ -1,0 +1,67 @@
+lliurex-megaphone (1.0.4) xenial; urgency=medium
+
+  * Removed deprecated locale
+
+ -- Juanma Navarro Mañez <juanma1980@gmail.com>  Thu, 22 Jun 2017 09:14:59 +0200
+
+lliurex-megaphone (1.0.3) xenial; urgency=medium
+
+  * Added metainfo 
+
+ -- Juanma Navarro Mañez <juanma1980@gmail.com>  Wed, 10 May 2017 12:43:24 +0200
+
+lliurex-megaphone (1.0.2-lliurex3) xenial; urgency=medium
+
+  * New release to xenial
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Wed, 03 Feb 2016 11:52:08 +0100
+
+lliurex-megaphone (1.0.2-lliurex1) trusty; urgency=medium
+
+  * Added icon & desktop
+
+ -- M.Angel Juan <m.angel.juan@gmail.com>  Tue, 27 Oct 2015 19:18:45 +0100
+
+lliurex-megaphone (1.0.1) trusty; urgency=low
+
+  * Using cmake as install system
+
+ -- Enrique Medina Gremaldos <quiqueiii@gmail.com>  Fri, 07 Nov 2014 13:08:46 +0100
+
+lliurex-megaphone (1.0.0) trusty; urgency=low
+
+  * Replaced python code with c++11
+  * Using pulseaudio api to load and unload loopback module
+
+ -- Enrique Medina Gremaldos <quiqueiii@gmail.com>  Tue, 14 Oct 2014 09:21:55 +0200
+
+lliurex-megaphone (0.5.2) precise; urgency=high
+
+  * Dummy upgrade
+  * Solved the dllx_install 
+
+ -- Angel Berlanas Vicente <angel.berlanas@gmail.com>  Thu, 24 Oct 2013 11:03:58 +0200
+
+lliurex-megaphone (0.5) precise; urgency=high
+
+  * Ported to precise 
+
+ -- Angel Berlanas Vicente <angel.berlanas@gmail.com>  Thu, 24 Oct 2013 10:21:01 +0200
+
+lliurex-megaphone (0.4) lucid; urgency=low
+
+  * Updated for nemo
+
+ -- Angel Berlanas Vicente <angel.berlanas@gmail.com>  Wed, 27 Feb 2013 10:35:59 +0100
+
+lliurex-megaphone (0.2) unstable; urgency=low
+
+  * Fixed desktop and binary
+
+ -- Enrique Medina Gremaldos <lliurex_devel4@edu.gva.es>  Wed, 11 Jan 2012 12:45:57 +0100
+
+lliurex-megaphone (0.1) unstable; urgency=low
+
+  * Initial release.
+
+ -- Enrique Medina Gremaldos <lliurex_devel4@edu.gva.es>  Mon, 11 Jul 2011 09:49:08 +0200
