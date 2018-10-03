@@ -3,5 +3,5 @@
 
 
 %:
-	dh $@ --with llxdev,llxsrc
+	dh $@ --with llxsrc,i18n
 

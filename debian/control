@@ -2,10 +2,10 @@ Source: lliurex-megaphone
 Section: x11
 Priority: optional
 Maintainer: LliureX Team <lliurex@gva.es>
-Build-Depends: cdbs, debhelper (>= 7), pkg-config, cmake (>= 2.6.0), libgtkmm-3.0-dev, libpulse-mainloop-glib0, libpulse-dev, llxcfg-dev, llxsrchelper
-Standards-Version: 3.9.3
+Uploaders: M.Angel Juan <m.angel.juan@gmail.com>, Raul Rodrigo Segura <lliurex_devel3@edu.gva.es>, Hector Garcia Huerta <lliurex_devel1@edu.gva.es>, Daniel Duran Vecino <daduve@gmail.com>, Juanma Navarro <juanma1980@gmail.com>, Juan Ramon Pelegrina <juapesai@hotmail.com>
+Build-Depends: cdbs, debhelper (>= 7), pkg-config, cmake (>= 2.6.0), libgtkmm-3.0-dev, libpulse-mainloop-glib0, libpulse-dev, llxsrchelper,python3-poinstaller
+Standards-Version: 3.9.5
 
- 
 Package: lliurex-megaphone
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
