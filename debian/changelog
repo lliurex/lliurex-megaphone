@@ -1,3 +1,9 @@
+lliurex-megaphone (1.1) focal; urgency=medium
+
+  * Focal port
+
+ -- M.Angel Juan <m.angel.juan@gmail.com>  Fri, 23 Apr 2021 13:17:45 +0200
+
 lliurex-megaphone (1.1) bionic; urgency=medium
 
   * Bionic release
